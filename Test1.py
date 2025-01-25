@@ -58,4 +58,3 @@ driver.close()
 driver.quit()
 
 print("Test Complete")
-print("Test Complete")
